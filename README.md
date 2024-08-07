@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Muneeb Ul Hassan
-- 👀 I’m interested in Machine Learning, Deep Learning, NLP and Computer Vision
+- 👀 I’m interested in Machine Learning, Deep Learning, NLP, and Computer Vision
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on any research project
-- 📫 Reach me via LinkedIn
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muneeb-ul-hassan-machine-learning-expert/)
+
 
 <!---
 MuneebUH/MuneebUH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
