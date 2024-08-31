@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP, and Computer Vision
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on any research project
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/muneeb-ul-hassan-machine-learning-expert/)
+- 📫 Reach me via [LinkedIn]([https://www.linkedin.com/in/muneebulhassan-ml/])
 
 
 <!---
