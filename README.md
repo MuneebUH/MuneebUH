@@ -9,4 +9,5 @@
   - **Bird vs Drone Detection:** A transfer learning approach using VGG16 to improve surveillance systems.
   - **Diamond Price Prediction App:** An app for accurate diamond price prediction based on various attributes.
 - 💞️ **Looking to collaborate** on research projects in the fields of Machine Learning, Deep Learning, and Data Science.
+- 🤝 **If you are seeking a dedicated Machine Learning Engineer** with a strong passion for innovation and a proven ability to solve complex problems, let’s discuss how my skills can contribute to your organization’s success.
 - 📫 **Reach me via:** [LinkedIn](https://www.linkedin.com/in/muneebulhassan-ml/)
