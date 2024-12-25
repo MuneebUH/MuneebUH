@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Muneeb Ul Hassan
 
-- 🧠 **Associate Machine Learning Engineer** with a strong foundation in Machine Learning, Deep Learning, NLP, and Computer Vision.
+- 🧠 **Machine Learning Engineer** with a strong foundation in Machine Learning, Deep Learning, NLP, and Computer Vision.
 - 👀 **Passionate about** solving complex problems using advanced machine learning techniques, with experience in both supervised and unsupervised learning, computer vision, and predictive analytics.
 - 🛠️ **Skills:** Python, R, C/C++, TensorFlow, Keras, PyTorch, NumPy, Pandas, Scikit-Learn, Seaborn
 - 🌱 **Currently mastering:** NLP techniques to further enhance my ability to analyze and extract valuable insights from text data.
