@@ -11,11 +11,11 @@
 ### 📊 GitHub Profile Summary
 
 <p align="center">
-  <a href="https://github.com/muneebulhassan">
-    <img src="https://komarev.com/ghpvc/?username=muneebulhassan&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/MuneebUH">
+    <img src="https://komarev.com/ghpvc/?username=MuneebUH&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/muneebulhassan">
-    <img src="https://img.shields.io/github/followers/muneebulhassan?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/MuneebUH?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -87,15 +87,15 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 📬 Reach out via:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneebulhassan-ml/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/muneebulhassan)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MuneebUH)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muneebulhassan&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebulhassan&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuneebUH&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebUH&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -106,5 +106,5 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 
 ---
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muneebulhassan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuneebUH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
