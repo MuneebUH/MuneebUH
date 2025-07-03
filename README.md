@@ -108,7 +108,8 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuneebUH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Metrics](https://raw.githubusercontent.com/MuneebUH/MuneebUH/main/github-metrics.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuneebUH&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuneebUH)](https://git.io/streak-stats)
 
 
 
