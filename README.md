@@ -38,7 +38,7 @@
 
 ### 📚 Current Focus
 
-🔍 Currently mastering advanced **Natural Language Processing** techniques to extract insights from unstructured text data.
+🔍 Currently mastering advanced **Generative Artificial Intelligence** techniques to extract insights from unstructured text data.
 
 ---
 
