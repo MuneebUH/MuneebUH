@@ -110,8 +110,11 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<details>
+<summary>🦙 Fine-tuning LLaMA-2</summary>
+Supervised fine-tuning using QLoRA on the 7B-chat variant for e-commerce optimization.
+</details>
+
 
 
 
