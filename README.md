@@ -95,7 +95,7 @@ Regression-based app for predicting diamond prices based on various attributes.
 
 
 ---
-### Trophies
+### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuneebUH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
