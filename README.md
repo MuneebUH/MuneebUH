@@ -82,6 +82,28 @@ Regression-based app for predicting diamond prices based on various attributes.
 </details>    
   
 
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuneebUH&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebUH&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+
+---
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuneebUH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🧠 Quote I Live By
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
 ---
 
 ### 🤝 Let’s Connect & Collaborate!
@@ -99,27 +121,11 @@ Regression-based app for predicting diamond prices based on various attributes.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneebulhassan-ml/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MuneebUH)
 
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuneebUH&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebUH&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  ...
 </p>
-
----
-
-### 🧠 Quote I Live By
-
-> “The best way to predict the future is to invent it.” – Alan Kay
-
----
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuneebUH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 
 
