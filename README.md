@@ -51,7 +51,7 @@
 
 ### 📚 Current Focus
 
-Currently mastering advanced **Generative Artificial Intelligence** techniques using Gemini, OpenAI Api, LLM Finetuning, RAG & Agentic AI.
+Currently mastering **Generative Artificial Intelligence** techniques through Gemini, OpenAI, LLM Finetuning, RAG & Agentic AI.
 
 ---
 
@@ -121,11 +121,6 @@ Regression-based app for predicting diamond prices based on various attributes.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneebulhassan-ml/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/MuneebUH)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  ...
-</p>
 
 
 
