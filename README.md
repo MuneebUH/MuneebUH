@@ -88,7 +88,7 @@ Regression-based app for predicting diamond prices based on various attributes.
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=MuneebUH&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebUH&layout=compact&theme=tokyonight" height="170"/>
 </p>
