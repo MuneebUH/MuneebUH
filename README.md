@@ -51,7 +51,7 @@
 
 ### 📚 Current Focus
 
-🔍 Currently mastering advanced **Generative Artificial Intelligence** techniques to extract insights from unstructured text data.
+Currently mastering advanced **Generative Artificial Intelligence** techniques using Gemini, OpenAI Api, LLM Finetuning, RAG & Agentic AI.
 
 ---
 
