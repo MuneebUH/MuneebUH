@@ -14,7 +14,7 @@
   <a href="https://github.com/MuneebUH">
     <img src="https://komarev.com/ghpvc/?username=MuneebUH&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/muneebulhassan">
+  <a href="https://github.com/MuneebUH">
     <img src="https://img.shields.io/github/followers/MuneebUH?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </p>
