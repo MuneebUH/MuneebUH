@@ -105,6 +105,8 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 > “The best way to predict the future is to invent it.” – Alan Kay
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=muneebulhassan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Metrics](https://raw.githubusercontent.com/muneebulhassan/muneebulhassan/main/github-metrics.svg)
 
 
