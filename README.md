@@ -56,21 +56,31 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 ---
 
 ### 💡 Highlight Projects
+<details>
+<summary>🦙 Fine-tuning LLaMA-2</summary>
+Supervised fine-tuning of the LLaMA-2-7b-chat model using QLoRA for optimizing e-commerce product descriptions.
+</details>  
 
-- 🦙 **Fine-tuning LLaMA-2 for Product Descriptions**  
-  Supervised fine-tuning of the LLaMA-2-7b-chat model using QLoRA for optimizing e-commerce product descriptions.
+<details>
+<summary>☀️ ML-Based Solar Capacity Forecasting</summary>
+Implemented a Random Forest model achieving 85%+ accuracy to forecast solar energy capacity.
+</details>  
 
-- ☀️ **ML-Based Solar Capacity Forecasting (Karachi)**  
-  Implemented a Random Forest model achieving 85%+ accuracy to forecast solar energy capacity.
+<details>
+<summary>🛩️ Bird vs Drone Detection System</summary>
+Computer vision system using VGG16 transfer learning, 96% accuracy—critical for aviation safety.
+</details>  
 
-- 🛩️ **Bird vs Drone Detection System**  
-  Computer vision system using VGG16 transfer learning, 96% accuracy—critical for aviation safety.
+<details>
+<summary>💬 SentiVision</summary>
+An NLP-powered tool to analyze product reviews for sentiment and trends.
+</details>  
 
-- 💬 **SentiVision**  
-  An NLP-powered tool to analyze product reviews for sentiment and trends.
-
-- 💎 **Diamond Price Prediction App**  
-  Regression-based app for predicting diamond prices based on various attributes.
+<details>
+<summary>💎 Diamond Price Prediction App</summary>
+Regression-based app for predicting diamond prices based on various attributes.
+</details>    
+  
 
 ---
 
@@ -110,10 +120,7 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 
 
 
-<details>
-<summary>🦙 Fine-tuning LLaMA-2</summary>
-Supervised fine-tuning using QLoRA on the 7B-chat variant for e-commerce optimization.
-</details>
+
 
 
 
