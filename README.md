@@ -110,6 +110,8 @@ Currently mastering advanced **Generative Artificial Intelligence** techniques u
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuneebUH&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
