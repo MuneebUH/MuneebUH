@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I’m Muneeb Ul Hassan</h1>
+<h1 align="center">Hi, I’m Muneeb Ul Hassan 👋</h1>
 
 <p align="center">
-  🧠 <strong>Machine Learning Engineer</strong> <br>
-  🔍 Passionate about ML, DL, NLP & Computer Vision<br>
-  💡 Always learning & solving complex problems
+   <strong>Machine Learning Engineer</strong> <br>
+   Passionate about ML, DL, NLP & Computer Vision<br>
+   Always learning & solving complex problems
 </p>
 
 ---
